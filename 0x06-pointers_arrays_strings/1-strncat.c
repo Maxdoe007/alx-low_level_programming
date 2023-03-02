@@ -3,7 +3,7 @@
  * _strncat - concatinate 2 strings
  * @dest: destination string
  * @src: source string
- * @n: number of character 
+ * @n: number of character
  *
  * Return: dest
  */
